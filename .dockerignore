@@ -1,0 +1,10 @@
+.git
+.gitignore
+.dockerignore
+.vscode
+.idea
+*.log
+Dockerfile
+docker-entrypoint.sh
+render.yaml
+DEPLOYMENT.md
